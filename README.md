@@ -11,3 +11,5 @@ To use Point, fork this repo and make your own changes. Be sure to customize the
 This theme uses the [MIT license](https://choosealicense.com/licenses/mit/).
 
 To report a bug or request a feature, please [create an issue](https://github.com/katavie/point-theme/issues).
+
+![preview](preview.png)

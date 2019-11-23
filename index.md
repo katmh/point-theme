@@ -11,17 +11,9 @@ I’m a founder of the [We Are America Project](https://weareamericaproject.com)
 
 Above all else, I value integrity, authenticity, empathy, and surrounding yourself with people who lift each other up.
 
-Last summer, I interned at [Repl.it](https://repl.it), a Y Combinator-backed startup. During [high school](/hs), I organized [hackathons](https://mahacks.com), did [biology research](https://www.emerginginvestigators.org/articles/an-aqueous-solution-containing-soluble-substances-from-pvc-char-has-no-effect-on-the-rate-of-transformation-in-e-coli-cells), and earned [NCWIT's National Award](https://www.aspirations.org/blog/four-hundred-us-high-school-women-are-recognized-technological-achievements-0) for Aspirations in Computing.
-
-I [fail](/fail) a lot.
-
-When I'm not working on projects, I'm probably scrolling through memes or exercising—maybe both.
-
 ## 👋🏻 Say hi
 
-Email is the most reliable way to reach me: [hello@katmh.com](mailto:hello@katmh.com).
-
-You can also find me on [Facebook](https://facebook.com/katherinehuang4), [Twitter](https://twitter.com/@katmhuang), [Instagram](https://instagram.com/texxture), [LinkedIn](https://www.linkedin.com/in/katmh), [Github](https://github.com/katmhuang), and the [Hack Club Slack](https://hackclub.com/community/).
+You can contact me via piegons, horseback, or snail mail.
 
 ## 📍 What I’m doing now*
 
@@ -32,7 +24,7 @@ You can also find me on [Facebook](https://facebook.com/katherinehuang4), [Twitt
 
 Last updated November 21, 2019
 
-\* The concept of a “now page” is from Derek Sivers
+\* The concept of a “[now page](https://nownownow.com/about” is from Derek Sivers
 
 ## 📠 Fun facts
 
