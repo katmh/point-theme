@@ -1,0 +1,28 @@
+# things you probably want to change
+url: https://crouton.net
+title: Point Theme
+description: description for search engines and social media cards
+nav-links:
+  - name: Home
+    url: /
+  - name: About
+    url: /about
+  - name: Blog
+    url: /blog
+
+# things you probably don't want to change
+defaults:
+  - # applies the default layout to all files in the project
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  - # sets is_post=true for all blog posts
+    scope:
+      path: ""
+      type: posts
+    values:
+      is_post: true
+permalink: /:title # so we have /about instead of /about.html, and /blog-post instead of /2019-11-22-blog-post.html
+sass:
+  style: compressed # compress the CSS file generated from the SCSS styles file
