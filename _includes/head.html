@@ -14,7 +14,16 @@
             <nav>
                 <ul>
                     {% for link in site.nav-links %}
-                    <li><a href="{{ link.url | prepend:site.url }}">{{ link.name }}</a></li>
+                    <li>
+                        {% if link.external == true %}
+                        <a href="{{ link.url }}">
+                        {% endif %}
+                        {% if link.external != true %}
+                        <a href="{{ link.url | prepend:site.url }}">
+                        {% endif %}
+                            {{ link.name }}
+                        </a>
+                    </li>
                     {% endfor %}
                 </ul>
             </nav>

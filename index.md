@@ -1,34 +1,29 @@
 ---
 ---
 
-<img id="portrait" src="assets/me.jpg" alt="placeholder photo">
+## 🤷 What I do
 
-Hi! I’m Kat, from Lowell, MA. I’m a first-year student at MIT studying Urban Planning and Computer Science.
+I'm majoring in Urban Planning with Computer Science & minoring in Comparative Media Studies. On campus, I dance, (try to) sing, & fry eggs at midnight with my friends.
 
-I founded [Science and Us](https://scienceandus.org), a nonprofit that runs events and creates online resources to help high schoolers learn how to make science clear and engaging.
+This summer, I’m doing technical marketing at [Gatsby](https://gatsbyjs.org/) & a retreat at the [Recurse Center](recurse.com). At the [Senseable City Lab](http://senseable.mit.edu/), I'm making a website to visualize air pollution data collected by sensors installed on garbage trucks and taxis.
 
-I’m a founder of the [We Are America Project](https://weareamericaproject.com), working with 1300+ students in almost 25 states to share stories that spark conversations, led by the next generation, on what it means to be American.
+## 🦕 What I've done before
 
-Above all else, I value integrity, authenticity, empathy, and surrounding yourself with people who lift each other up.
+Last summer, I interned at [Repl.it](https://repl.it/), an online code editor supporting 50+ programming languages & a community of 2 million makers.
+
+During high school, I organized [hackathons](http://mahacks.com/) & attempted bioinformatics research. I founded [Science and Us](http://scienceandus.org/) to introduce teens to the careers and anti-disciplinary mindset of science communication.
+
+When I was 11, I loved Percy Jackson so much I ended up self-studying Modern Greek for 3 years, running a [linguistics Tumblr](http://subjunctivelymoody.tumblr.com/), and teaching myself Latin.
 
 ## 👋🏻 Say hi
 
-You can contact me via piegons, horseback, or snail mail.
+Wanna chat? Feel free to reach out!
 
-## 📍 What I’m doing now*
-
-- Taking 7.012, 8.01, 11.401, and CMS.618 at MIT
-- Building Science and Us
-- Developing a website, helping teachers, and [speaking](https://hubweek.org) [at events](https://bostonbookfest.org/festival/presenters/) for the national We Are America project
-- Organizing [xFair](https://xfair.io), dancing on [Asian Dance Team](https://adt.it.eddu), and writing for [Chroma](https://mitchroma.ink) and Science Policy Review
-
-Last updated November 21, 2019
-
-\* The concept of a “[now page](https://nownownow.com/about” is from Derek Sivers
+- Source code: [@katavie/point-theme](http://github.com/katavie/point-theme)
+- [Issues](https://github.com/katavie/point-theme/issues)
 
 ## 📠 Fun facts
 
-- I use em dashes liberally
-- My favorite foods are avocado and ravioli (ideally not together)
-- I can do single-leg/pistol squats but am *very* far from being able to do single-arm push ups
-- I use [Missive](https://missiveapp.com/) as my email client, Visual Studio Code as my primary text editor (but tumblr.com/customize will always have a special place in my heart), Google Calendar as my calendar, and scrap paper / vim + .txt files for todo lists
+- You can customize link colors, container width, and fonts in `styles/styles.scss`
+- This theme has built-in options for 2 different date formats: "November 12, 2018" and "Nov '18"
+- Be sure to look through the config file to change the site title, description, homepage greeting, and more

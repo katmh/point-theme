@@ -1,0 +1,15 @@
+<li class="posts-list-item">
+  <div class="posts-list-title">
+    <h2>
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h2>
+    <span class="timestamp timestamp-inline">
+      {% include post-date.html %}
+    </span>
+  </div>
+  {% if site.show_excerpts == true %} {{ post.content | strip_html |
+  truncatewords: site.excerpt_word_count }} [Read more]({{ post.url }}) {% endif
+  %}
+</li>

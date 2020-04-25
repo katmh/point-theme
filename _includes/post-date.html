@@ -1,0 +1,3 @@
+{% if site.long_date == true %} {{ post.date | date: "%B %d, %Y" }}{{ page.date
+| date: "%B %d, %Y" }} {% endif %} {% if site.short_date == true %} {{ post.date
+| date: "%b ‘%y" }}{{ page.date | date: "%b ‘%y" }} {% endif %}

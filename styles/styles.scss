@@ -1,100 +1,152 @@
 ---
 ---
+
 $accent-color: #b00; // link color
 $font-stack: system-ui, Helvetica, Arial, sans-serif;
 $heading-font-stack: system-ui, Helvetica, Arial, sans-serif; // use this to set a different font for your headings if you want
+$container-max-width: 700px;
 
 // reset
 * {
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 // structure
 body {
-	font-family: $font-stack;
+  font-family: $font-stack;
 }
 
 #container {
-	width: 90%;
-	max-width: 600px;
-	margin: 4rem auto;
+  width: 90%;
+  max-width: $container-max-width;
+  margin: 4rem auto;
 }
 
 // navigation
 nav {
-	margin: 1rem 0 3rem;
+  margin: 1rem 0 3rem;
 }
 
 nav li {
-	list-style: none;
-	display: inline-block;
-	margin: 0;
+  list-style: none;
+  display: inline-block;
+  margin: 0;
 }
 
 nav a {
-	margin-right: 1rem;
+  margin-right: 1rem;
 }
 
 // typography: heading
-h1, h2, h3 {
-	color: #333;
-    font-family: $heading-font-stack;
+h1,
+h2,
+h3 {
+  color: #333;
+  font-family: $heading-font-stack;
 }
 
 h1 {
-	font-size: 2.5rem;
-	margin-top: 1rem;
+  font-size: 2.5rem;
+  margin-top: 1rem;
 }
 
 .global-title {
-	font-size: 3rem;
-	color: #222;
+  font-size: 3rem;
+  color: #222;
 }
 
 h2 {
-	font-size: 1.8rem;
+  font-size: 1.8rem;
 }
 
 h3 {
-	font-size: 1.3rem;
+  font-size: 1.3rem;
 }
 
-h2, h3 {
-	margin: 2rem 0 1rem;
+h2,
+h3 {
+  margin: 2rem 0 1rem;
 }
 
 // typography: body
-p, li {
-	font-size: 1rem;
-	line-height: 150%;
-	color: #444;
-	margin: 1.25rem 0;
+p,
+li {
+  font-size: 1rem;
+  line-height: 150%;
+  color: #444;
+  margin: 1.25rem 0;
 }
 
 li {
-	margin: .5rem 0 0 2.5rem;
+  margin: 0.25rem 0 0 2.5rem;
+}
+
+li:first-child {
+  margin-top: 0;
 }
 
 a {
-	color: $accent-color;
+  color: $accent-color;
 }
 
-a:hover, a:active {
-	color: lighten($accent-color, 10%);
+a:hover,
+a:active {
+  color: lighten($accent-color, 10%);
 }
 
 // images
 img {
-	max-width: 100%;
+  max-width: 100%;
 }
 
-#portrait {
-	width: 7rem;
-	height: 7rem;
-	border-radius: 4rem;
-	float: left;
-	margin-right: 1rem;
-	margin-bottom: 0.5rem;
+.avatar {
+  width: 7rem;
+  height: 7rem;
+  border-radius: 4rem;
+  margin-right: 1.5rem;
+}
+
+// homepage greeting component
+.greeting-container {
+  display: flex;
+}
+
+.greeting-container h3 {
+  align-self: center;
+  margin: 0;
+}
+
+// blog page
+.posts-list-item {
+  list-style: none;
+  margin: 1.25rem 0;
+}
+
+.posts-list-title {
+  display: flex;
+  margin-bottom: 0.75rem;
+}
+
+.posts-list-item:first-of-type {
+  margin-top: 1.25rem;
+}
+
+.posts-list-item h2 {
+  margin: 0 0.75rem 0 0;
+}
+
+.timestamp {
+  color: #676767;
+}
+
+.timestamp-inline {
+  line-height: 1;
+  align-self: flex-end;
+}
+
+.timestamp-block {
+  display: block;
+  margin-top: 0.75rem;
 }
