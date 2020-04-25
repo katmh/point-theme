@@ -125,7 +125,6 @@ img {
 }
 
 .posts-list-title {
-  display: flex;
   margin-bottom: 0.75rem;
 }
 
@@ -133,8 +132,9 @@ img {
   margin-top: 1.25rem;
 }
 
-.posts-list-item h2 {
-  margin: 0 0.75rem 0 0;
+.posts-list-item .title {
+  margin: 0 0.25rem 0 0;
+  display: inline-block;
 }
 
 .timestamp {
@@ -144,6 +144,7 @@ img {
 .timestamp-inline {
   line-height: 1;
   align-self: flex-end;
+  display: inline-block;
 }
 
 .timestamp-block {
