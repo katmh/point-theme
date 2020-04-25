@@ -2,7 +2,7 @@
 
 Point is a [Jekyll](https://jekyllrb.com/) theme for personal websites that are simple and to the point.
 
-It's based on [Katherine Huang's personal website](https://katmh.com), so head there for a preview.
+Preview: [point-theme.netlify.app](https://point-theme.netlify.app/)
 
 The theme is fully responsive, so it looks good and works on devices of all sizes. All pages are written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for ease of editing and writing.
 
