@@ -5,10 +5,12 @@
   >← Back to all posts</a
 >{% endif %}
 
+{% unless page.url == "/" %}
 <h1>
   {% if page.title %}{{ page.title }}{% endif %}{% if post.title %}{{ post.title
   }}{% endif %}
 </h1>
+{% endunless %}
 
 {% if page.date %}
 <span class="timestamp timestamp-block">
