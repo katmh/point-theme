@@ -20,9 +20,6 @@ nav-links:
   - name: Blog
     url: /blog
     external: false
-  - name: Contact
-    url: /contact
-    external: false
   - name: Search Engine
     url: https://duckduckgo.com
     external: true
