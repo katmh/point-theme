@@ -5,10 +5,10 @@
 #
 
 # no trailing slash
-url: https://point-theme.netlify.app
+url: https://mateoign.github.io/mateoign.github.io
 
 # for header and meta tags
-title: Phil 174
+title: Mateo Ignacio
 description: My personal website
 
 # set external to true if linking outside your website
@@ -27,7 +27,7 @@ nav-links:
 # for the homepage image + big text next to it
 greeting_image: /assets/me.jpg
 # 100-200 characters recommended
-greeting_text: Hey, I'm Mateo! I'm a new graduate from UC San Diego now living in the Bay Area!
+greeting_text: Hey, I'm Mateo! I'm UC San Diego now living in the Bay Area!
 
 # show blog post excerpts on blog page
 show_excerpts: false
