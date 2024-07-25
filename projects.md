@@ -1,5 +1,5 @@
 ---
-title: projects
+title: Projects
 ---
 
 {% for post in site.posts %}

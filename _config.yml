@@ -17,8 +17,8 @@ nav-links:
   - name: Home
     url: /
     external: false
-  - name: Blog
-    url: /blog
+  - name: projects
+    url: /projects
     external: false
   # - name: Search Engine
   #   url: https://duckduckgo.com
@@ -29,7 +29,7 @@ greeting_image: /assets/me.jpg
 # 100-200 characters recommended
 greeting_text: Hey, I'm Mateo! I'm UC San Diego now living in the Bay Area!
 
-# show blog post excerpts on blog page
+# show projects post excerpts on projects page
 show_excerpts: false
 excerpt_word_count: 70
 
@@ -49,12 +49,12 @@ defaults:
       path: ""
     values:
       layout: "default"
-  - # sets is_post=true for all blog posts
+  - # sets is_post=true for all projects posts
     scope:
       path: ""
       type: posts
     values:
       is_post: true
-permalink: /:title # so we have /about instead of /about.html, and /blog-post instead of /2019-11-22-blog-post.html
+permalink: /:title # so we have /about instead of /about.html, and /projects-post instead of /2019-11-22-projects-post.html
 sass:
   style: compressed # compress the CSS file generated from the SCSS styles file
