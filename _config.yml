@@ -5,11 +5,11 @@
 #
 
 # no trailing slash
-url: https://point-theme.netlify.app
+url: https://mateoign.github.io/
 
 # for header and meta tags
-title: Point Theme 🎯
-description: description for search engines and social media cards
+title: Mateo Ignacio
+description: My portfolio
 
 # set external to true if linking outside your website
 # for internal, make sure to include preceding slash
