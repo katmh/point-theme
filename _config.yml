@@ -1,13 +1,8 @@
-#
-#
-# things you probably want to change
-#
-#
 
 # no trailing slash
-url: https://mateoign.github.io/mateoign.github.io/
+url: https://mateoign.github.io/
 
-# for header and meta tags
+# for header and meta tagsw
 title: Mateo Ignacio
 description: My portfolio
 
