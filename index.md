@@ -3,7 +3,7 @@
 
 ## 🤷 What I do
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+I am interested in data driven solutions to 
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -15,11 +15,9 @@ Amet commodo nulla facilisi nullam vehicula ipsum a arcu. Venenatis urna cursus 
 
 Sit amet tellus cras adipiscing enim eu turpis egestas pretium. Ipsum faucibus vitae aliquet nec. Ac auctor augue mauris augue neque gravida. Neque egestas congue quisque egestas.
 
-## 👋🏻 Say hi
+## Other Socials.
 
-Wanna chat? Feel free to reach out!
-
-- Source code: [@katmh/point-theme](http://github.com/katmh/point-theme)
+- [My LinkedIn](https://www.linkedin.com/in/mateoign/)
 - [Issues](https://github.com/katmh/point-theme/issues)
 
 ## 📠 Fun facts
