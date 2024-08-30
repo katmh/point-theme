@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+/* The side navigation menu */
+.sidenav {
+  height: 15%;
+  width: 170px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.sidenav a {
+  padding: 6px 6px 6px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #111;
+}
+.sidenav:hover {
+  background: #ebeaea;
+}
+
+.sidenav ul, .sidenav li{
+  margin: 0;
+  padding: 0;
+}
+
+#submenu{
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 35px;
+  visibility: hidden;
+  z-index: 1;
+}
+
+li:hover ul#submenu{
+  opacity: 1;
+  top: 80px;
+  visibility: visible;
+}
+
+#submenu li{
+  float: none;
+  width: 100%;
+}
+
+#submenu a:hover{
+  background: black;
+}
+
+#submenu a{
+  background-color: #818181;
+}
+
+.submenu a:hover {
+  color: #111;
+}
+
+.main {
+  margin-left: 170px; /* Same as the width of the sidenav */
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div class="sidenav">
+  <a href="">Contact</a>
+    <ul id="submenu">
+      <li><a href="https://www.linkedin.com/in/mateoign/"></a>LinkedIn</li>
+      <li><a href=""></a>mateoignaciodesign@gmail.com</li>
+    </ul>
+</div>
+
+</body>
+</html> 

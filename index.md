@@ -1,27 +1,23 @@
 ---
 ---
 
-## 🤷 What I do
+## What I Do
 
-I am interested in data driven solutions
+I've dabbled in many data science applications in the last few years. Training Natural Language Processing and Computer Vision models, and data visualizations using Tableau with SQL servers.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## 🦕 What I've done before
+## What I've Done Before
 
-Purus non enim praesent elementum facilisis. In aliquam sem fringilla ut. Hac habitasse platea dictumst vestibulum rhoncus est. Ut porttitor leo a diam sollicitudin.
+### [Customer Engagement Rapid Assistance](https://brandonluong.github.io/CERA/) 2024
+Most recently I worked with San Diego Gas & Electric to build a prototype for a mobile app called [CERA](https://brandonluong.github.io/CERA/) that would bring the community closer to SDG&E. CERA was designed for customers to send images of equipment like poles or transformers that appear hazardous directly to a specialist before sending a response team. This would reduce chances of equipment failure leading to larger consequences like wildfires, while improving communication between the public and SDG&E, and reducing potential wasted resources by sending out a team in person. The final result was 2 models that created an urgency score of the equipment condition and a design for the user interface. 
 
-Amet commodo nulla facilisi nullam vehicula ipsum a arcu. Venenatis urna cursus eget nunc. Dui accumsan sit amet nulla facilisi morbi tempus. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Sem viverra aliquet eget sit amet tellus cras.
 
-Sit amet tellus cras adipiscing enim eu turpis egestas pretium. Ipsum faucibus vitae aliquet nec. Ac auctor augue mauris augue neque gravida. Neque egestas congue quisque egestas.
+### [TREND](https://trend.ucsd.edu/) 2023-2024
+I worked as the Web Development Team Lead for Trend Magazine, a student run organization that releases two issues a year for Fall and Spring. I led a team of 3 to redesign the website for each issue and created multiple short form videos in collaboration with the photography team. Completely coded with React.JS and designed with Figma. 
 
-## Other Socials.
+<iframe width="800" height="450" src="https://youtube.com/embed/wHnWTgbyhaE?rel=0&controls=0&showinfo=0&autoplay=1&loop=1&playlist=wHnWTgbyhaE"></iframe>
 
-- [My LinkedIn](https://www.linkedin.com/in/mateoign/)
-- [Issues](https://github.com/katmh/point-theme/issues)
 
-## 📠 Fun facts
-
-- You can customize link colors, container width, and fonts in `styles/styles.scss`
-- This theme has built-in options for 2 different date formats: "November 12, 2018" and "Nov '18"
-- Be sure to look through the config file to change the site title, description, homepage greeting, and more
+## Reach Me
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/mateoign/)
+- Or email me at mateoignaciodesign@gmail.com

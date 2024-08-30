@@ -1,7 +1,7 @@
 {% include head.html %}
 
 {% if page.is_post %}<a
-  href="{{ '/blog' | prepend:site.url }}"
+  href="{{ '/projects' | prepend:site.url }}"
   >← Back to all posts</a
 >{% endif %}
 
@@ -12,6 +12,7 @@
 </h1>
 {% endunless %}
 
+
 {% if page.date %}
 <span class="timestamp timestamp-block">
   {% include post-date.html %}
@@ -21,7 +22,8 @@
 {% if page.url == "/" %}
 {% include greeting.html %}
 {% endif %}
-
+<!-- {% include sidebar.html %} -->
 {{ content }}
 
 {% include foot.html %}
+
