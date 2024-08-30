@@ -12,8 +12,8 @@ nav-links:
   - name: Home
     url: /
     external: false
-  - name: Blog
-    url: /blog
+  - name: Projects
+    url: /projects
     external: false
   - name: Search Engine
     url: https://duckduckgo.com
