@@ -19,6 +19,7 @@ body {
   font-family: $font-stack;
 }
 
+
 #container {
   width: 90%;
   max-width: $container-max-width;
@@ -41,6 +42,7 @@ nav a {
 }
 
 // typography: heading
+
 h1,
 h2,
 h3 {
@@ -54,8 +56,9 @@ h1 {
 }
 
 .global-title {
-  font-size: 3rem;
+  font-size: 2.5rem;
   color: #222;
+
 }
 
 h2 {
@@ -103,9 +106,9 @@ img {
 }
 
 .avatar {
-  width: 7rem;
-  height: 7rem;
-  border-radius: 4rem;
+  width: 8rem;
+  height: 8rem;
+  border-radius: 5rem;
   margin-right: 1.5rem;
 }
 
@@ -116,8 +119,10 @@ img {
 
 .greeting-container h3 {
   align-self: center;
+  margin-top: -10px;
   margin: 0;
 }
+
 
 // blog page
 .posts-list-item {
@@ -152,6 +157,9 @@ img {
   display: block;
   margin-top: 0.75rem;
 }
+
+// videos
+
 
 code {
   background: #ddd;

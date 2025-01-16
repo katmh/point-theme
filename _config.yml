@@ -20,7 +20,8 @@ description: My portfolio
 # for the homepage image + big text next to it
 greeting_image: /assets/me.jpg
 # 100-200 characters recommended
-greeting_text: I enjoy finding answers in data and communicating it to others. 
+greeting_text: I communicate with visuals and play with data.
+
 
 # show blog post excerpts on blog page
 show_excerpts: false
